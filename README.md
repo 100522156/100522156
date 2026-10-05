@@ -40,7 +40,6 @@ Some things I've built:
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 Most Used Languages
 
