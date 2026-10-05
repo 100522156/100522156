@@ -51,5 +51,5 @@ Some things I've built:
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/[TU-URL-AQUI](https://www.linkedin.com/in/miguel-merino-s%C3%A1nchez-a00b04405/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/miguel-merino-s%C3%A1nchez-a00b04405/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmerinosan@gmail.com)
