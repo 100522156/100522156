@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Miguel
 
-**Computer Engineering student @ UC3M | Distributed Systems & Machine Learning**
+**Computer Engineering student  UC3M | Distributed Systems & Machine Learning**
 
 I'm in my 4th year of Computer Engineering at Universidad Carlos III de Madrid. I'm mainly interested in **distributed systems**, **machine learning**, **databases** and **low-level optimization** — I like understanding technology from its foundations.
 
