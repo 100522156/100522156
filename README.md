@@ -42,15 +42,11 @@ Some things I've built:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=100522156&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=100522156&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100522156&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100522156&layout=donut&langs_count=6&hide=jupyter%20notebook,makefile&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
-
 ---
 
 ## 🔗 Connect with me
