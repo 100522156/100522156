@@ -44,7 +44,7 @@ Some things I've built:
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://TU-DOMINIO.vercel.app/api/top-langs/?username=100522156&layout=donut&langs_count=6&hide=makefile&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />height="165" alt="Top languages" />alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100522156&layout=donut&langs_count=6&hide=makefile&theme=tokyonight&hide_border=true&cache_seconds=14400&v=2" height="165" alt="Top languages" />
 </p>
 ---
 
